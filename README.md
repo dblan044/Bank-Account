@@ -1,7 +1,5 @@
 # Bank-Account
 
-Simple Bank account program.
-
 Have getters and setters for the various private fields.
 
 Deposit method that adds the users deposit amount to the balance and prints the new balance amount.
