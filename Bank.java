@@ -28,26 +28,6 @@ public class Bank {
         }
     }
 
-    public void setAccNum(int accNum) {
-        this.accNum = accNum;
-    }
-
-    public void setBalance(int balance) {
-        this.balance = balance;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public void setEmail(String email) {
-        this.email = email;
-    }
-
-    public void setPhoneNumber(int phoneNumber) {
-        this.phoneNumber = phoneNumber;
-    }
-    
     public int getAccNum() {
         return accNum;
     }
